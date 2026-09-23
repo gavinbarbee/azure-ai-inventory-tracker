@@ -4,9 +4,7 @@
 
 ## 🎬 Video Walkthrough
 
-> 📌 *Loom link coming soon — will be added here once recorded.*
-
-[![Watch the walkthrough](https://img.shields.io/badge/Loom-Video%20Coming%20Soon-lightgrey)]()
+[![Watch the walkthrough](https://img.shields.io/badge/Loom-Watch%20Walkthrough-8b5cf6)](https://www.loom.com/share/e9f6f01b6c224e758c029b7365f14e9c)
 
 ---
 
